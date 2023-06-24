@@ -1,6 +1,6 @@
 <h1 align="center">Hey 
 👋
-, Myself Bhavesh Joshi</h1>
+, Myself Bhavesh</h1>
 <h3 align="center">3rd Year Undergrad from MITS Gwalior</h3>
 
 <img align ="right" alt="developer" width = "400" src = "https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" >
