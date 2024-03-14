@@ -13,7 +13,7 @@
 - 
 📫
  How to reach me **bhaveshj2611@gmail.com**
-
+ <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alt="Luffy" width="100" height="100" align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhaveshjoshi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-joshi-" height="30" width="40" /></a>
