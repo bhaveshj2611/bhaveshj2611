@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋, Myself Bhavesh</h1>
 <h3 align="center">3rd Year CS Undergrad from MITS Gwalior</h3>
 
-<div style="text-align: right;">
-  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer" width="400" height="400">
-</div>
+
+  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer" width="400" height="400" align="right">
 
 
 
