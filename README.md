@@ -3,6 +3,11 @@
 , Myself Bhavesh</h1>
 <h3 align="center">3rd Year Undergrad from MITS Gwalior</h3>
 
+
+<p align="left">
+  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alt="Luffy">
+</p>
+
 <p align="right">
   <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer">
 </p>
