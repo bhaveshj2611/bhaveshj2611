@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, Myself Bhavesh</h1>
 <h3 align="center">3rd Year CS Undergrad from MITS Gwalior</h3>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alt="Luffy" width="100" height="100" style="margin-right: auto;">
-  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer" width="300" height="300" style="margin-left: auto;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alt="Luffy" width="200" height="150" style="margin-right: auto;">
+  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer" width="300" height="200" style="margin-left: auto;">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshj2611&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshj2611" /> </p>
