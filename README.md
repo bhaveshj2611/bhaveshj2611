@@ -2,15 +2,13 @@
 <h3 align="center">3rd Year CS Undergrad from MITS Gwalior</h3>
 
 
-  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer" width="400" height="400" align="right">
+  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer" width="300" height="300" align="right">
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshj2611&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshj2611" /> </p>
 
-
-- 
 📫
 Reach me at **bhaveshj2611@gmail.com**
  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alt="Luffy" width="100" height="100" align="left">
@@ -23,7 +21,7 @@ Reach me at **bhaveshj2611@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshj2611&show_icons=true&locale=en&layout=compact" alt="bhaveshj2611" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshj2611&show_icons=true&locale=en&layout=compact" alt="bhaveshj2611" width="450" height="350" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshj2611&" alt="bhaveshj2611" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshj2611&" alt="bhaveshj2611" /></p>
