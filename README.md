@@ -12,7 +12,7 @@
 
 - 
 📫
- How to reach me **bhaveshj2611@gmail.com**
+Reach me at **bhaveshj2611@gmail.com**
  <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alt="Luffy" width="100" height="100" align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
