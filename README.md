@@ -15,7 +15,7 @@ Reach me at **bhaveshj2611@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/bhaveshjoshi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-joshi-" height="30" width="40" /></a>
 <a href="https://instagram.com/__bhavesh.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__bhavesh.26" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/bhaveshj2611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhavesh-joshi-" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/bhaveshj26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhavesh-joshi-" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/bhaveshjou8fo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhavesh-joshi-" height="30" width="40" /></a>
   <a href="https://monkeytype.com/profile/bhavesh26" target="blank"><img align="center" src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/Monkeytype.svg" alt="bhavesh-joshi-" height="30" width="40" /></a>
 </p>
