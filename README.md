@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, Myself Bhavesh</h1>
-<h3 align="center">Final year CS Undergrad from MITS Gwalior</h3>
+<h3 align="center">MTech CSE student at IIT Guwahati</h3>
 
 
   <img src="https://github.com/bhaveshj2611/bhaveshj2611/raw/main/gif/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer" width="300" height="300" align="right">
